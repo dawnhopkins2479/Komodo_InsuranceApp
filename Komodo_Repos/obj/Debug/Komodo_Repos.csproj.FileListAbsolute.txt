@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Repos\obj\Debug\Komodo_Repos.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Repos\obj\Debug\Komodo_Repos.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Repos\bin\Debug\Komodo_Repos.dll
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Repos\bin\Debug\Komodo_Repos.pdb
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Repos\obj\Debug\Komodo_Repos.dll
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Repos\obj\Debug\Komodo_Repos.pdb

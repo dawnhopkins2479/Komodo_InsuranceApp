@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\bin\Debug\Komodo_Insurance1.exe.config
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\bin\Debug\Komodo_Insurance1.exe
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\bin\Debug\Komodo_Insurance1.pdb
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\obj\Debug\Komodo_Insurance1.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\obj\Debug\Komodo_Insurance1.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\obj\Debug\Komodo_Insurance1.exe
+C:\ElevenFiftyProjects\Assignments\Komodo_App\Komodo_Insurance1\obj\Debug\Komodo_Insurance1.pdb
