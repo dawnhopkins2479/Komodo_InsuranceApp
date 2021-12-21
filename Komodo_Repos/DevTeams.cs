@@ -8,7 +8,7 @@ namespace Komodo_Repos
 {
     public class DevTeam
     {
-        private Dictionary<int, Developer> _listOfDevelopers;
+        private Dictionary<int, Developer> _listOfDevelopers = new Dictionary<int, Developer>();
         public string TeamName { get; set; }
         public int TeamID { get; set; }
 
@@ -18,6 +18,6 @@ namespace Komodo_Repos
         {
             TeamName = teamName;
             TeamID = teamId;
-        }
+        }        
     }
 }

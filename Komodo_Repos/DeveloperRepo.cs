@@ -8,7 +8,8 @@ namespace Komodo_Repos
 {
     public class DeveloperRepo
     {
-        private Dictionary<int, Developer> _listOfDevelopers;
+        private Dictionary<int, Developer> _listOfDevelopers = new Dictionary<int, Developer>();
+        
 
      
        
@@ -21,8 +22,6 @@ namespace Komodo_Repos
                 _listOfDevelopers.Add(developer.UserID, developer);
                 bReturn = true;
             }
-
-
             return bReturn;
 
         }
@@ -40,6 +39,15 @@ namespace Komodo_Repos
                 
             }
             return bReturn;
+        }
+
+        public void ListAllDevelopers()
+        {
+            foreach (KeyValuePair<int,Developer> kvp in _listOfDevelopers)
+            {
+                Developer d = (Developer) kvp.Value;
+                Console.WriteLine("{0},{1},{2}", d.FullName, d.UserID, d.HasPluralsight);
+            }
         }
 
     }

@@ -12,3 +12,8 @@ C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\obj\Debug\KomodoTest.cs
 C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\obj\Debug\KomodoTest.csproj.CopyComplete
 C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\obj\Debug\KomodoTest.dll
 C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\obj\Debug\KomodoTest.pdb
+C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\bin\Debug\Komodo_Insurance1.exe
+C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\bin\Debug\Komodo_Repos.dll
+C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\bin\Debug\Komodo_Insurance1.pdb
+C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\bin\Debug\Komodo_Insurance1.exe.config
+C:\ElevenFiftyProjects\Assignments\Komodo_App\KomodoTest\bin\Debug\Komodo_Repos.pdb

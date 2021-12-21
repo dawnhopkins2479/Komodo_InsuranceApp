@@ -12,7 +12,8 @@ namespace Komodo_Repos
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string FullName => $"{FirstName}{LastName}";
-        public bool HasPluralsight { get; set; }
+        public bool HasPluralsight { get; set; }        
+
 
         public Developer() { }
 

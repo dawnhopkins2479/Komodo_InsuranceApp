@@ -12,5 +12,10 @@ namespace Komodo_Insurance1
         DeveloperRepoSubmenu = 2,
         TeamRepositorySubMenu = 3,
         HRSubmenu = 4
-    }    
+            
+    }
+
+    enum MenuAction {Back = 9, Quit = 0 }
+
+    enum DeveloperMenuActions {AddNewDeveloper = 1, UpdateExisting = 2, RemoveDeveloper = 3, ListAllDevelopers = 4 }
 }
